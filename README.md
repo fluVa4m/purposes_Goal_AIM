@@ -25,8 +25,7 @@
 [![Unlicense License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+![Up<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 640" width="1280" height="640">
   <defs>
     <!-- Тень для окон -->
@@ -239,6 +238,7 @@
     <path d="M 412 532 L 417 527 M 408 532 L 417 523 M 404 532 L 417 519" stroke="#888888" stroke-width="1"/>
   </g>
 </svg>
+loading readme-banner-pyqt6-ref.svg…]()
 
 
 <!-- TABLE OF CONTENTS -->
@@ -372,6 +372,7 @@ GNU Affero General Public License v3.0 (AGPL). See `LICENSE.txt` for more inform
 <!-- CONTACT -->
 ## Contact
 
+<img width="400" height="400" alt="perekati-pole" src="https://github.com/user-attachments/assets/bb0dcef8-423e-47c5-8eea-38bef7894189" />
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400">
   <defs>
     <radialGradient id="shadowGrad" cx="50%" cy="50%" r="50%">
