@@ -28,7 +28,7 @@
 
 
 
-
+![Uploading readme-banner-pyqt6-ref.svg…]()
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 640" width="1280" height="640">
   <defs>
@@ -242,6 +242,7 @@
     <path d="M 412 532 L 417 527 M 408 532 L 417 523 M 404 532 L 417 519" stroke="#888888" stroke-width="1"/>
   </g>
 </svg>
+
 
 
 
