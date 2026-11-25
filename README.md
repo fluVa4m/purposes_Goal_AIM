@@ -28,8 +28,7 @@
 
 
 
-![Uploading readme-banner-pyqt6-ref.svg…]()
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+![Uploading readme-banner-pyqt6-ref_copy.svg…]()
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 640" width="1280" height="640">
   <defs>
     <!-- Тень для окон -->
